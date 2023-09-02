@@ -2377,3 +2377,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1519.903810 seconds.
+  path: Assets/Scripts/Player/PlayerAttack.cs
+  artifactKey: Guid(1bbef5848f5e43e4dbef30917fb0cb31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Scripts/Player/PlayerAttack.cs using Guid(1bbef5848f5e43e4dbef30917fb0cb31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'deae04a49b314d729c2796e228f44c4c') in 0.563120 seconds 
+Number of asset objects unloaded after import = 0
